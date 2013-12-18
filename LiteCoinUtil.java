@@ -35,6 +35,7 @@ public class LiteCoinUtils extends LiteCoinGUI {
 	static double mainPrice;
 
 	static String pageSource;
+	
 
 	private static String getUrlSource(final String url) throws IOException {
 		final URL exchangeURL = new URL(url);
