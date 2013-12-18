@@ -1,5 +1,3 @@
-package crypto.currencies;
-
 import java.awt.Color;
 
 /**
