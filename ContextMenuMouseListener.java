@@ -50,6 +50,7 @@ public class ContextMenuMouseListener extends MouseAdapter {
 			}
 		};
 
+
 		popup.add(undoAction);
 		popup.addSeparator();
 
