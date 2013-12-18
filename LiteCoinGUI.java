@@ -34,6 +34,7 @@ public class LiteCoinGUI {
 		});
 	}
 
+
 	private final JTextArea donationsText = new JTextArea();
 
 	private JFrame frmCurrentLitecoinPrice;
